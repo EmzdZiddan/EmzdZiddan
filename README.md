@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Digital Marketer & Web Developer<br>
+I'm Digital Marketer & Web Developer<br>
 
 
 # 💻 Tech Stack:
