@@ -1,6 +1,5 @@
-# 💫 About Me:
-
-I'm Digital Marketer & Web Developer
+# 👋 Hi there, I'm EmzdZiddan!
+Digital Marketer & Web Developer
 
 # 💻 Tech Stack:
 
