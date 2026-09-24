@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm EmzdZiddan!
-Digital Marketer & Web Developer
+I'm a Digital Marketer & Web Developer specializing in Marketing Strategy, Google Ads, Meta Ads, UI/UX Design, and Frontend Development.
 
 # 💻 Tech Stack:
 
